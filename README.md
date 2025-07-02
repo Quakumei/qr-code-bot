@@ -1,4 +1,4 @@
-#  [@yousha_generate_qr_bot](https://t.me/yousha_generate_qr_bot) - Телеграм Бот
+# Телеграм Бот для генерации QR-кодов
 
 <!-- Center image -->
 <p align="center">
